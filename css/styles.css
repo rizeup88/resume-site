@@ -1,0 +1,65 @@
+body {
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: "Ubuntu";
+}
+
+.header {
+  position: relative;
+  padding: 10px;
+}
+
+.header h1 {
+  color: #05253b;
+  font-size: 40px;
+  font-family: "Domus";
+}
+
+.intro {
+  position: relative;
+  padding: 10px;
+}
+
+.intro h1 {
+  color: #05253b;
+  font-size: 40px;
+  font-family: "Domus";
+}
+
+.education {
+  position: relative;
+  padding: 10px;
+}
+
+.education h1 {
+  color: #05253b;
+  font-size: 40px;
+  font-family: "Domus";
+}
+
+.experience {
+  position: relative;
+  padding: 10px;
+}
+
+.experience h1 {
+  color: #05253b;
+  font-size: 40px;
+  font-family: "Domus";
+}
+
+.skills {
+  position: relative;
+  padding: 10px;
+}
+
+.skills h1 {
+  color: #05253b;
+  font-size: 40px;
+  font-family: "Domus";
+}
+
+.skills ul {
+  line-height: 1.5em;
+  column-count:2;
+}
